@@ -19,7 +19,7 @@
 #include "exportdialog.h"
 #include "ui_exportdialog.h"
 #include "tracer.h"
-#include <QtGui/QColorDialog>
+#include <QtWidgets/QColorDialog>
 
 ExportDialog::ExportDialog(QWidget *parent) :
     QDialog(parent),
